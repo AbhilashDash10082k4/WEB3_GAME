@@ -1,5 +1,5 @@
 import dotenv from 'dotenv';
-import '@nomiclabs/hardhat-ethers';
+import '@nomicfoundation/hardhat-toolbox';
 
 dotenv.config();
 
